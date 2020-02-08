@@ -58,7 +58,7 @@ if (isset($_POST["btncalcular"])){
     }
 }
 else{
-    echo "Te cayó el FBI. CORRE PERRA, CORRE!!";
+    echo "Te cayó el FBI";
 }
 
 ?>
